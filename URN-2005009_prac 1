@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Try to make table</title>
+<style>
+table{
+    font-family = times new roman;
+    border-collapse = collapse;
+    width = 100%;
+}
+td, th {
+    border:1.5px solid blue;
+    padding: 20px;
+    text-align: left;
+}
+</style>
+</head>
+<body>
+    <h1> HTML Tutorial</h1>
+    <p>Well organised and easy to learn .use this link.</p>
+    <h4>HTML Link</h4>
+    <p><a href="http://www.tinyurl.com/v3uk7m52">visit w3school.com!</a></p>
+    <p> Student name who wants to learn HTML.</p>
+<h2>Student Information</h2>
+<table>
+<tr>
+<th>Student ID</th>
+<th>Roll No.</th>
+<th>First Name</th>
+<th>Last Name</th>
+<th>Department</th>
+</tr>
+<tr>
+<th>110</th>
+<th>1</th>
+<th>Jason</th>
+<th>Bornes</th>
+<th>Computer Science</th>
+</tr>
+<tr>
+<th>111</th>
+<th>2</th>
+<th>Emily</th>
+<th>Disouza</th>
+<th>Information Technology</th>
+</tr>
+<tr>
+<th>112</th>
+<th>3</th>
+<th>Nikki</th>
+<th>Johns</th>
+<th>Electronic Science</th>
+</tr>
+</table>
+<p><h3>other students name who also wants to join and learn HTML class.</h3></p>
+<ol type="1">
+    <h4>
+        <li>Merry Vervain</li>
+    <li>William John</li>
+    <li>olivia Fontaine</li>
+    <li>sophia Turner</li>
+    </h4> 
+</ol>
+</body>
+</html>
